@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with git
 - 💬 Ask me about git
 - 📫 How to reach me: git
-- 😄 Pronouns: he/him
+- 😄 Pronouns: git
 - ⚡ Fun fact: minGL2
